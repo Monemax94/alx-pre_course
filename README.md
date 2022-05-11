@@ -1,1 +1,3 @@
-my first readme
+MY FIRST README AT ALX SOFTWARE ENGINEERING PROGRAMME MAY 2022
+
+Its a great oportunity.
